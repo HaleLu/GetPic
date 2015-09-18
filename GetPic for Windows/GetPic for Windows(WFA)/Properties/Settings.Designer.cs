@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace GetPic_for_Windows.Properties
+namespace GetPic_for_Windows_WFA_.Properties
 {
 
 

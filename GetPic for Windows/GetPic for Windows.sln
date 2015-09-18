@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetPic for Windows", "GetPic for Windows\GetPic for Windows.csproj", "{FE5BA550-93F9-4DA9-84EB-EB320D52471E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetPic for Windows(WFA)", "GetPic for Windows(WFA)\GetPic for Windows(WFA).csproj", "{4BFE24C1-1F4A-4A0B-8DDD-4219BC6B2CD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FE5BA550-93F9-4DA9-84EB-EB320D52471E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FE5BA550-93F9-4DA9-84EB-EB320D52471E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FE5BA550-93F9-4DA9-84EB-EB320D52471E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FE5BA550-93F9-4DA9-84EB-EB320D52471E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BFE24C1-1F4A-4A0B-8DDD-4219BC6B2CD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BFE24C1-1F4A-4A0B-8DDD-4219BC6B2CD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BFE24C1-1F4A-4A0B-8DDD-4219BC6B2CD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BFE24C1-1F4A-4A0B-8DDD-4219BC6B2CD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
